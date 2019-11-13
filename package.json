@@ -1,0 +1,24 @@
+{
+  "name": "chefs-prettier",
+  "version": "1.0.0",
+  "description": "Prettier config for the chefs",
+  "main": "index.js",
+  "scripts": {
+    "patch": "np patch --yolo --no-yarn",
+    "minor": "np minor --yolo --no-yarn",
+    "major": "np major --yolo --no-yarn"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EJMason/chefs-prettier.git"
+  },
+  "author": "EJ Mason <ej-mason@pluralsight.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/EJMason/chefs-prettier/issues"
+  },
+  "homepage": "https://github.com/EJMason/chefs-prettier#readme",
+  "dependencies": {
+    "np": "5.1.3"
+  }
+}
