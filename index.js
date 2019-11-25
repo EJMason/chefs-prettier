@@ -1,6 +1,6 @@
 //https://prettier.io/docs/en/options.html
 module.exports = {
-  printWidth: 120,
+  printWidth: 80,
   tabWidth: 4,
   useTabs: false,
   semi: false,
