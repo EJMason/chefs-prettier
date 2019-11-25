@@ -18,5 +18,8 @@
     "url": "https://github.com/EJMason/chefs-prettier/issues"
   },
   "homepage": "https://github.com/EJMason/chefs-prettier#readme",
-  "dependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "np": "5.1.3"
+  }
 }
